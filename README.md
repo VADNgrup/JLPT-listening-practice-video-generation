@@ -155,10 +155,10 @@ The image could be look like:
 ![image](outputs/jpc_scripts/images/69730939758695870a8ca994_script_001.png)
 
 
-3. the final video could look like (Please download video in output folder as [video](outputs/jpc_scripts/videos/N5/69730939758695870a8ca994/efefabef883b44b3aac99f9280663d21.mp4) to hear voice/sound!):
+3. the final video could look like (Please download video in output folder as [▶️ video](outputs/jpc_scripts/videos/N5/69730939758695870a8ca994/efefabef883b44b3aac99f9280663d21.mp4) to hear voice/sound!):
 
 
-
+[video here is not play online in github!!!]
 <video controls width="400">
   <source src="outputs/jpc_scripts/videos/N5/69730939758695870a8ca994/efefabef883b44b3aac99f9280663d21.mp4" type="video/mp4">
   Your browser does not support the video tag.
