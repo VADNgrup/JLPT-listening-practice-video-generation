@@ -10,6 +10,15 @@ In this project I use some generative models including:
 - TTS model omnivoice
 - Diffusion model qwen-image-2512
 
+## Project structure
+```bash
+ingredients/         # JLPT grammar & vocabulary bank
+jpc_scripts/         # Transcript, visualization, and video generation scripts
+outputs/             # Generated dialogues, images, and videos
+playground/          # Test scripts
+
+```
+
 ## Installation
 
 1. setup LLM by ollama/llama.cpp
