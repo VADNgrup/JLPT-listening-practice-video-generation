@@ -188,4 +188,4 @@ please use `apt-get install fonts-noto-cjk` if you are using linux/ubuntu
 
 ## Acknoledgement
 - Thank Staff of Castudy.vn to allow me use their data.
-- Thank Goutam sensei to 
+- Thank 間所　洋和 sensei for the helpful content throughout the course
