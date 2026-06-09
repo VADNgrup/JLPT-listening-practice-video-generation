@@ -164,6 +164,11 @@ The image could be look like:
   Your browser does not support the video tag.
 </video>
 
+<video controls>
+  <source src="https://raw.githubusercontent.com/VADNgrup/JLPT-listening-practice-video-generation/outputs/jpc_scripts/videos/N5/69730939758695870a8ca994/efefabef883b44b3aac99f9280663d21.mp4" type="video/mp4">
+</video>
+
+
 If the dialog in video turn to [][][], it means that u missing JP supported-font
 please use `apt-get install fonts-noto-cjk` if you are using linux/ubuntu
 
